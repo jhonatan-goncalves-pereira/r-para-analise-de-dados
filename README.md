@@ -1,2 +1,4 @@
 # r-para-analise-de-dados-viagens-
-Exemplos práticos de como usar o R para análise de Dados
+-Principais funções e pacotes
+- Exemplos práticos de como usar o R para análise de Dados
+- Elementos simples do R
